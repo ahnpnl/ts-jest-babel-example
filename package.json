@@ -10,7 +10,7 @@
     "@types/jest": "^26.0.9",
     "babel-jest": "^26.2.2",
     "jest": "^26.4.0",
-    "ts-jest": "^26.1.4",
+    "ts-jest": "^26.2.0",
     "typescript": "~3.9.7"
   },
   "scripts": {
