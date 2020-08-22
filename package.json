@@ -9,7 +9,7 @@
     "@babel/preset-typescript": "^7.10.4",
     "@types/jest": "^26.0.10",
     "babel-jest": "^26.3.0",
-    "jest": "^26.4.0",
+    "jest": "^26.4.1",
     "ts-jest": "^26.2.0",
     "typescript": "~3.9.7"
   },
